@@ -54,3 +54,4 @@ import plotly.express as px
 
 grafico = px.bar(tabela_lojas, x=tabela_lojas.index, y='Faturamento')
 grafico.show()
+
